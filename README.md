@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ritik Patel</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+- 🔭 I’m currently working on **Automation Testing**
+
+- 🌱 I’m currently learning **Springboot**
+
+- 📫 How to reach me **ritikpatel586@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/imritik07_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imritik07_" height="30" width="40" /></a>
